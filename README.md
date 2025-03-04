@@ -19,4 +19,5 @@ Installing Arch Linux can be complex for beginners, but it offers great flexibil
 
 Once Arch Linux is installed, you will likely need to configure some essential services. This guide will help you set up the following services (others coming soon):
 
-- **SSH**: Installing and configuring SSH for remote access.
+- **SSH**: Installing and configuring SSH.
+- **DNS**: Installing and configuring DNS and DoT.
